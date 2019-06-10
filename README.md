@@ -1,4 +1,4 @@
-<h6 align="center"> Imagini: </h6>
+<h4 align="center"> Imagini: </h4>
 <hr/>
 
 <p align="center"> Panou administrator: </p>
