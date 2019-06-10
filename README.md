@@ -3,7 +3,7 @@
 Imagini:
 <hr/>
 
-<center> Panou administrator: </center>
+<p align="center"> Panou administrator: </p>
 
 <img src="http://i.epvpimg.com/szFmaab.jpg">
 
