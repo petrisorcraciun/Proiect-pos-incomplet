@@ -1,36 +1,34 @@
-# Proiect-pos-incomplet
-
-Imagini:
+<h6 align="center"> Imagini: </h6>
 <hr/>
 
 <p align="center"> Panou administrator: </p>
 
 <img src="http://i.epvpimg.com/szFmaab.jpg">
 
-<center> Lista produse: </center>
+<p align="center"> Lista produse: </p>
 
 <img src="http://i.epvpimg.com/EI0Gdab.jpg">
 
-<center> Lista angajati: </center>
+<p align="center"> Lista angajati: </p>
 
 <img src="http://i.epvpimg.com/J0SGfab.jpg">
 
-<center> Adaugare produs: </center>
+<p align="center"> Adaugare produs: </p>
 
 <img src="http://i.epvpimg.com/49XOcab.jpg">
 
-<center> Panou utilizator/POS: </center>
+<p align="center"> Panou utilizator/POS: </p>
 
 <img src="http://i.epvpimg.com/ihMwaab.jpg">
 
-<center> Produs adaugat cu ajutorul codului "1111": </center>
+<p align="center"> Produs adaugat cu ajutorul codului "1111": </p>
 
 <img src="http://i.epvpimg.com/LwnIdab.jpg">
 
-<center> Cautare produs dupa numa: </center>
+<p align="center"> Cautare produs dupa numa: </p>
 
 <img src="http://i.epvpimg.com/ZJyIbab.jpg">
 
-<center> Rezultate pentru un produs cautat: </center>
+<p align="center"> Rezultate pentru un produs cautat: </p>
 
 <img src="http://i.epvpimg.com/sUDidab.jpg">
